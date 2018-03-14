@@ -62,11 +62,12 @@ h3 {
   text-align: center;
   text-decoration: none;
   background: #4aaaa5;
+  list-style-type: none;
 }
 
-.nav.navbar-nav {
-  float: right;
-  display: "in-line text";
+
+.li {
+  display: inline;
 }
 
 footer {
